@@ -1,5 +1,5 @@
 #include <stdio.h>
-//hotfix
+//Version 1
 int main(int argc, char *argv[]){
 printf("Hello World\n");
 return 0;
