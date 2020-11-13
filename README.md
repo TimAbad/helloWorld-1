@@ -1,13 +1,13 @@
 # helloWorld
 <-----demo code to test git functionality----->
 
-#Initialize git
+#Initialize git:
 git init
 
-#check status of git
+#check status of git:
 git status
 
-#add modified files to staging
+#add modified files to staging:
 git add <filename>
 
 #commit files to staging using -m flag
