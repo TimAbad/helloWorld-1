@@ -7,6 +7,15 @@ git init
 #check status of git:
 git status
 
+#clone a git repository:
+git clone https://github.com/csuntechlab/helloWorld.git
+
+#check for updates to repository:
+git fetch
+
+#check for updates and apply changes to local repository from remote repository:
+git pull
+
 #add modified files to staging:
 git add <filename>
 
