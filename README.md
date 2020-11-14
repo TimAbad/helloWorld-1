@@ -1,6 +1,22 @@
 # helloWorld
 <-----demo code to test git functionality----->
 
+#How to compile c source code on the commandline
+#Step1: Install the build-essential packages:
+sudo apt-get install build-essential
+
+#Step2: Write (or clone) a simple c program and end with .c extension:
+nano hello.c
+
+#Step3: Compile the C program with gcc Compiler:
+gcc hello.c -o hello
+
+#Step4: Run the program:
+./hello
+
+####-----END_GCC_Tutorial-----#####
+
+
 #Initialize git:
 git init
 
