@@ -6,9 +6,28 @@ printf("Learning C");
 
 /*variable_module*/
 //Assign value to variable
-argc = 10;
+//argc = 10;
 //print variable
-printf("value of argc : %d \n", argc);
+//printf("value of argc : %d \n", argc);
+
+//working with variables in c
+
+/* variable definition: */
+int a, b;
+int c;
+float f;
+
+/* actual initialization */
+a = 10;
+b = 20;
+
+c = a + b;
+printf("value of c : %d \n", c);
+
+f = 70.0/3.0;
+printf("value of f : %f \n", f);
+
+
 /*End variable_module*/
 
 /*array_module*/
