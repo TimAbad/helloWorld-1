@@ -48,8 +48,6 @@ printf( "Max value is : %d\n", ret );
 
 /*End variable_module*/
 
-/*function_module*/
-
 /*array_module*/
 /*io_module*/
 
