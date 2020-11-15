@@ -1,5 +1,5 @@
 #include <stdio.h>
-//Version 1
+//Version 1.0
 
 /* function declaration */
 int max(int num1, int num2);
