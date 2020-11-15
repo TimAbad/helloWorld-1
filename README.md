@@ -3,16 +3,16 @@
 
 #How to compile c source code on the commandline
 #Step1: Install the build-essential packages:
-sudo apt-get install build-essential
+#sudo apt-get install build-essential
 
 #Step2: Write (or clone) a simple c program and end with .c extension:
-nano hello.c
+#nano hello.c
 
 #Step3: Compile the C program with gcc Compiler:
-gcc hello.c -o hello
+#gcc hello.c -o hello
 
 #Step4: Run the program:
-./hello
+#./hello
 
 ####-----END_GCC_Tutorial-----#####
 
