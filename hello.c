@@ -45,7 +45,6 @@ printf( "Max value is : %d\n", ret );
 //f = 70.0/3.0;
 //printf("value of f : %f \n", f);
 
-
 /*End variable_module*/
 
 /*array_module*/
